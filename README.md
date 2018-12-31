@@ -4,13 +4,7 @@
 
 ### General Basics
 
-<<<<<<< HEAD
 - [x] 0. [Git Basics](task_git_basics/git_basics.md)
-||||||| merged common ancestors
-- [x] 0.[Git Basics] (task_git_basics/git_basics.md)
-=======
-- [x] 0.[Git Basics](task_git_basics/git_basics.md)
->>>>>>> 8b0f0c88a260dfa5393f040dcc3e5340a953ada4
 - [x] 1. Linux CLI and Networking
 - [x] 2. VCS (hello gitty), GitHub and Collaboration
 
