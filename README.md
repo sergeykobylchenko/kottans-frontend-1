@@ -4,7 +4,7 @@
 
 ### General Basics
 
-- [x] 0.[Git Basics] (task_git_basics/git_basics.md)
+- [x] 0.[Git Basics](task_git_basics/git_basics.md)
 - [x] 1. Linux CLI and Networking
 - [x] 2. VCS (hello gitty), GitHub and Collaboration
 
