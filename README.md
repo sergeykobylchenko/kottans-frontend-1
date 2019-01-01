@@ -18,9 +18,9 @@
 ### Advanced Topics
 
 - [ ] 7. [A Tiny JS World](stage_0/task_tiny_js/tiny_js.md)
-- [ ] 8. [Object oriented JS](stage_0/task_js_oop/js_oop.md) - practice
-- [ ] 9. [OOP exercise](stage_0/task_oop_exercise/oop_exersice.md) - practice
+- [ ] 8. [Object oriented JS](stage_0/task_js_oop/js_oop.md) - practice.
+- [ ] 9. [OOP exercise](stage_0/task_oop_exercise/oop_exersice.md) - practice.
 - [ ] 10. [Offline Web Applications](stage_0/task_offline_web_app/offline_web_app.md)
 - [ ] 11. [Memory pair game](stage_0/task_memory_pair_game/memory_pair_game.md) — real project!
-- [ ] 12. [Website Performance Optimization (optional)](stage_0/task_website_performance/website_performance.md)
+- [ ] 12. [Website Performance Optimization](stage_0/task_website_performance/website_performance.md) - optional.
 - [ ] 13. [Friends App](stage_0/task_friends_app/friends.app.md) - real project!
